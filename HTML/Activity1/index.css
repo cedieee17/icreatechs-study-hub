@@ -1,0 +1,38 @@
+body {
+	background-color: #ececec;
+
+}
+.header1 {
+  padding: 10px;
+  text-align: left;
+  background: #e85425;
+  color: #ffffff;
+  font-size: 20px;
+}
+.header2 {
+  text-align: left;
+  color: #e85425;
+  font-size: 20px;
+}
+.header3 {
+	text-align: left;
+  color: #e85425;
+  font-size: 20px;
+}
+.header4 {
+  text-align: left;
+  color: #e85425;
+  font-size: 20px;
+}
+.list1{
+	font-size: 20px;
+	font-style: Monaco;
+}
+.list2{
+	font-size: 20px;
+	font-style: Monaco;
+}
+table{
+  border-style: solid;
+  border-color: black;
+}
